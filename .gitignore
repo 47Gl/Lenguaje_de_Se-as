@@ -1,9 +1,8 @@
-# Entornos virtuales
-env/
+echo "env/
 venv/
-
-# Dependencias o configuraciones locales
-requirements.txt
-
-# Carpeta específica del proyecto
 Lenguaje_de_señas/
+requirements.txt
+__pycache__/
+*.pyc
+.vscode/
+.idea/" > .gitignore
