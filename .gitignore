@@ -1,0 +1,9 @@
+# Entornos virtuales
+env/
+venv/
+
+# Dependencias o configuraciones locales
+requirements.txt
+
+# Carpeta específica del proyecto
+Lenguaje_de_señas/
