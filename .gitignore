@@ -1,8 +1,0 @@
-echo "env/
-venv/
-Lenguaje_de_señas/
-requirements.txt
-__pycache__/
-*.pyc
-.vscode/
-.idea/" > .gitignore
